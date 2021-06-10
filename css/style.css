@@ -1,0 +1,58 @@
+@import "./reset.css";
+/* * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.preload * {
+  transition: none;
+}
+#sliderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.imageContainer {
+  width: 800px;
+  height: 600px;
+  position: relative;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  box-shadow: 0px 0px 20px 7px black;
+}
+button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  padding: 30px 15px;
+  border: none;
+
+  background-color: rgba(255, 255, 255, 0.1);
+  color: rgba(125, 125, 125);
+  font-size: 3em;
+
+  transition-property: background-color, padding;
+  transition-delay: 0.5s;
+}
+
+button:hover {
+  transition: all 0.5s;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 36px 18px;
+}
+.prev {
+  left: 0;
+  border-radius: 0 10px 10px 0;
+}
+.next {
+  right: 0;
+  border-radius: 10px 0 0 10px;
+} */
